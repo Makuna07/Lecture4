@@ -1,0 +1,51 @@
+body {
+	padding: 20px;
+}
+ul {
+	font-size:22px;
+	margin:0; 
+	padding:0;
+	list-style-type: none;
+}
+.color a {
+	color: #4AC20E;
+}
+.Front {
+	border:5px solid #4AC20E;
+	color: #3D58A6;
+	padding: 5px;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+.coding {
+	float: left;
+	width: 343;
+	height: 180;
+}
+.Laptop{
+	width: 240px;
+	height: 180px;
+}
+.img{
+	margin: 10px 60px 10px 0;
+}
+.text {
+	margin: 20px 0 20px 0;
+	font-size: 22px;
+	color: #3D58A6;
+}
+p a{
+	color: #3D58A6;
+}
+footer {
+	text-align: center;
+	margin-top: 160px;
+	color: #3D58A6;
+	}
+p span {
+	padding-left: 10px;
+}
+p.End{
+	border-top: 1px solid #707070;
+	font-size: 25px;
+}
